@@ -7,7 +7,7 @@ html {scroll-behavior: smooth;}
 
 body{
 
-	background-image: url("https://github.com/commemaru/PORTFOLIO/blob/main/grid.png?raw=true");
+	background-image: url(../images/grid.png);
 	background-attachment: fixed;
 }
 
@@ -538,4 +538,5 @@ margin-left: -32px;
 }
 
 }
+
 
