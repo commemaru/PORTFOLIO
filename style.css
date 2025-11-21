@@ -7,7 +7,7 @@ html {scroll-behavior: smooth;}
 
 body{
 
-	background-image: url(../images/grid.png);
+	background-image: url("https://github.com/commemaru/PORTFOLIO/blob/main/grid.png?raw=true");
 	background-attachment: fixed;
 }
 
@@ -211,7 +211,7 @@ input[type=submit]{
 }
 
 
-/*«šƒRƒƒ“ƒgƒJƒXƒ^ƒ€CSSƒuƒƒbƒN«š*/
+/*â†“â˜…ã‚³ãƒ¡ãƒ³ãƒˆã‚«ã‚¹ã‚¿ãƒ CSSãƒ–ãƒ­ãƒƒã‚¯â†“â˜…*/
 
 .commentcustom{
 
@@ -247,12 +247,12 @@ input[type=submit]{
 }
 
 
-/*šªƒRƒƒ“ƒgƒJƒXƒ^ƒ€CSSƒuƒƒbƒNªš*/
+/*â˜…â†‘ã‚³ãƒ¡ãƒ³ãƒˆã‚«ã‚¹ã‚¿ãƒ CSSãƒ–ãƒ­ãƒƒã‚¯â†‘â˜…*/
 
 
 
 
-/*ššššššƒƒfƒBƒAƒNƒŠƒGÝ’è‚±‚±‚©‚çšššššš*/
+/*â˜…â˜…â˜…â˜…â˜…â˜…ãƒ¡ãƒ‡ã‚£ã‚¢ã‚¯ãƒªã‚¨è¨­å®šã“ã“ã‹ã‚‰â˜…â˜…â˜…â˜…â˜…â˜…*/
 
 
 @media screen and (max-width: 480px) {
@@ -264,7 +264,7 @@ input[type=submit]{
 
 @media screen and (max-width:480px) {
 
-/*šššššš«««‚±‚ÌƒGƒŠƒA‚É‹Lq«««šššššš*/
+/*â˜…â˜…â˜…â˜…â˜…â˜…â†“â†“â†“ã“ã®ã‚¨ãƒªã‚¢ã«è¨˜è¿°â†“â†“â†“â˜…â˜…â˜…â˜…â˜…â˜…*/
 
 
 
@@ -287,7 +287,7 @@ h1{
 }
 
 
-/*ƒnƒ“ƒo[ƒK[ƒR[ƒi[*/
+/*ãƒãƒ³ãƒãƒ¼ã‚¬ãƒ¼ã‚³ãƒ¼ãƒŠãƒ¼*/
 
 .menu-btn {
     position: fixed;
@@ -409,7 +409,7 @@ h1{
 }
 
 
-/*ƒnƒ“ƒo[ƒK[ƒR[ƒi[*/
+/*ãƒãƒ³ãƒãƒ¼ã‚¬ãƒ¼ã‚³ãƒ¼ãƒŠãƒ¼*/
 
 
 .images {
@@ -484,7 +484,7 @@ scroll-margin-top: 25vh;
 }    
 
 
-/*«šƒRƒƒ“ƒgƒJƒXƒ^ƒ€CSSƒuƒƒbƒN«š*/
+/*â†“â˜…ã‚³ãƒ¡ãƒ³ãƒˆã‚«ã‚¹ã‚¿ãƒ CSSãƒ–ãƒ­ãƒƒã‚¯â†“â˜…*/
 
 
 
@@ -524,7 +524,7 @@ margin-left: -32px;
 
 
 
-/*šªƒRƒƒ“ƒgƒJƒXƒ^ƒ€CSSƒuƒƒbƒNªš*/
+/*â˜…â†‘ã‚³ãƒ¡ãƒ³ãƒˆã‚«ã‚¹ã‚¿ãƒ CSSãƒ–ãƒ­ãƒƒã‚¯â†‘â˜…*/
 
 
 
@@ -532,9 +532,10 @@ margin-left: -32px;
 
 
 
-/*ššššššªªªªªªªªªªªªªšššššš*/
+/*â˜…â˜…â˜…â˜…â˜…â˜…â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â†‘â˜…â˜…â˜…â˜…â˜…â˜…*/
 
 
 }
 
 }
+
