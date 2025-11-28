@@ -67,6 +67,19 @@ h1{
 
 
 /*★↓バナーブロック↓★*/
+.banner-header{
+	position: fixed;
+   background-color: rgba( 219, 42, 123, 0);
+   width: 40%;
+   height: auto;
+	top: 0px;
+	right: 24%;  
+	font-size:4vw;
+	text-align: center;
+	
+}
+
+
 .bannser-images {
 	display: grid;
 	place-content: center;
@@ -555,6 +568,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
