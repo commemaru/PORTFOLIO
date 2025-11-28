@@ -1,12 +1,13 @@
 @charset "UTF-8";
 
 
+
 html {scroll-behavior: smooth;}
 
 
 body{
 
-	background-image: url("https://raw.githubusercontent.com/commemaru/PORTFOLIO/main/images/grid.png");
+	background-image: url(../images/grid.png);
 	background-attachment: fixed;
 }
 
@@ -266,12 +267,14 @@ input[type=submit]{
 /*★★★★★★↓↓↓このエリアに記述↓↓↓★★★★★★*/
 
 
+
 .header{
 	position: fixed;
 	width: 100%;
 	height:200px;
 	float: none;
-	background-image: url("https://raw.githubusercontent.com/commemaru/PORTFOLIO/main/images/grid.png");
+	right:20px; 
+	background-image: url(../images/grid.png);
 	font-size:6.5vw;
 	top:-20px;
 }
@@ -535,13 +538,3 @@ margin-left: -32px;
 }
 
 }
-
-
-
-
-
-
-
-
-
-
