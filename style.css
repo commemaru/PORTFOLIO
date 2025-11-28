@@ -412,13 +412,14 @@ h1{
 
 
 .images {
-	display: grid;
-	place-content: center;
-	grid-template-columns: repeat(2, 1fr);
+	position: fixed;
+	left:-12px;
+	margin-right:40px;
+	margin-left:40px;
+	margin-top:-15px;
+	grid-template-columns: repeat(4, 1fr);
 	grid-auto-rows: auto;
-	gap: 40px 40px;
-	padding: 0;
-	margin: 0vw 0vw 0vw 5.5vw;
+	gap: 5px;
   }
 
 .images img {
@@ -536,6 +537,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
