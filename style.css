@@ -16,9 +16,8 @@ body{
 .header{
 
 	position: fixed;
-   background-color: rgba( 219, 42, 123, 0);
-   width: 40%;
-   height: auto;
+	width: 40%;
+	height: auto;
 	top: 0px;
 	right: 24%;  
 	font-size:4vw;
@@ -540,6 +539,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
