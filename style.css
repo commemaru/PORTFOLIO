@@ -248,7 +248,20 @@ input[type=submit]{
 
 /*★↑コメントカスタムCSSブロック↑★*/
 
+/*★↓バナーブロック↓★*/
+.banner-header{
 
+	display: grid;
+	place-content: center;
+	grid-template-columns: repeat(2, 1fr);
+	grid-auto-rows: auto;
+	gap: 40px 40px;
+	padding: 0;
+	margin: 0vw 0vw 0vw 5.5vw;
+
+}
+
+/*★↑バナーブロック↑★*/
 
 
 /*★★★★★★メディアクリエ設定ここから★★★★★★*/
@@ -526,6 +539,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
