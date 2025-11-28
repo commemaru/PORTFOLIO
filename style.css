@@ -267,16 +267,6 @@ input[type=submit]{
 /*★★★★★★↓↓↓このエリアに記述↓↓↓★★★★★★*/
 
 
-body{
-
-	background-image: url("https://raw.githubusercontent.com/commemaru/PORTFOLIO/main/images/grid.png");
-	background-size: cover;
-	margin: 0;
-}
-
-
-
-	
 .header{
 	width: 100%;
 	height:200px;
@@ -545,6 +535,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
