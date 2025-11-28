@@ -395,7 +395,7 @@ h1{
 .menu-btn::after {
 	content: "MENU";
 	position: absolute;
-	bottom: -15px;
+	bottom: -12px;
 	font-size: 10px;
 	color: rgba(102, 102, 102, 0.5);
 	letter-spacing: 1px;
@@ -537,6 +537,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
