@@ -85,7 +85,7 @@ h1{
 
 .bannser-images img {
 	display: block;
-	width: 30%;
+	width: 40%;
 	height: auto;
 	object-fit: contain;
 }
@@ -555,6 +555,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
