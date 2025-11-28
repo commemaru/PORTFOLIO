@@ -8,8 +8,7 @@ html {scroll-behavior: smooth;}
 body{
 
 	background-image: url("https://raw.githubusercontent.com/commemaru/PORTFOLIO/main/images/grid.png");
-	background-size: cover;
-	margin: 0;
+	background-attachment: fixed;
 }
 
 
@@ -17,8 +16,9 @@ body{
 .header{
 
 	position: fixed;
-	width: 40%;
-	height: auto;
+   background-color: rgba( 219, 42, 123, 0);
+   width: 40%;
+   height: auto;
 	top: 0px;
 	right: 24%;  
 	font-size:4vw;
@@ -267,10 +267,13 @@ input[type=submit]{
 /*★★★★★★↓↓↓このエリアに記述↓↓↓★★★★★★*/
 
 
+
 .header{
+	position: fixed;
 	width: 100%;
 	height:200px;
 	float: none;
+	right:20px; 
 	background-image: url("https://raw.githubusercontent.com/commemaru/PORTFOLIO/main/images/grid.png");
 	font-size:6.5vw;
 	top:-20px;
@@ -535,33 +538,3 @@ margin-left: -32px;
 }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
