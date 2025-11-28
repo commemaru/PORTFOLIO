@@ -91,12 +91,12 @@ h1{
 	list-style: none;
 }
 
-.bannser-images li {
+.banner-images li {
 	margin: 0;
 	padding: 0;
 }
 
-.bannser-images img {
+.banner-images img {
 	display: block;
 	width: 50%;
 	height: auto;
@@ -568,6 +568,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
