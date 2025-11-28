@@ -98,7 +98,7 @@ h1{
 
 .banner-images img {
 	display: block;
-	width: 60%;
+	width: 80%;
 	height: auto;
 	object-fit: contain;
 }
@@ -568,6 +568,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
