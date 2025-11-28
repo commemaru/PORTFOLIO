@@ -268,7 +268,7 @@ input[type=submit]{
 body{
 	background-image: url("https://raw.githubusercontent.com/commemaru/PORTFOLIO/main/images/grid.png");
 	background-size: cover;
-	position: fixed;
+	background-attachment: fixed;
     margin: 0;
 }
 	
@@ -543,6 +543,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
