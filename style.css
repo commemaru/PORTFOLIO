@@ -249,7 +249,7 @@ input[type=submit]{
 /*★↑コメントカスタムCSSブロック↑★*/
 
 /*★↓バナーブロック↓★*/
-.banner-header {
+.bannser-images {
 	display: grid;
 	place-content: center;
 	grid-template-columns: repeat(2, 1fr);
@@ -265,7 +265,7 @@ input[type=submit]{
 	padding: 0;
 }
 
-.banner-header img {
+.bannser-images img {
 	display: block;
 	width: 100%;
 	height: auto;
@@ -552,6 +552,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
