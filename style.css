@@ -80,7 +80,7 @@ h1{
 }
 
 
-.bannser-images {
+.banner-images {
 	display: grid;
 	place-content: center;
 	grid-template-columns: repeat(2, 1fr);
@@ -568,6 +568,7 @@ margin-left: -32px;
 }
 
 }
+
 
 
 
