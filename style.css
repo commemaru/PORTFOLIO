@@ -7,7 +7,7 @@ html {scroll-behavior: smooth;}
 
 body{
 
-	background-image: url(../images/grid.png);
+	background-color: #fff;
 	background-attachment: fixed;
 }
 
@@ -274,7 +274,7 @@ input[type=submit]{
 	height:200px;
 	float: none;
 	right:20px; 
-	background-image: url(../images/grid.png);
+	background-color: #fff;
 	font-size:6.5vw;
 	top:-20px;
 }
@@ -538,3 +538,4 @@ margin-left: -32px;
 }
 
 }
+
