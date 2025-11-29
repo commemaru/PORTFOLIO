@@ -293,10 +293,6 @@ input[type=submit]{
 	text-align: center;
 }
 
-.header-notmain h1{
-display: none;
-}
-
 
 
 /*↑★bannarブロック↑★*/
@@ -351,12 +347,7 @@ display: none;
 
 }
 
-.header-notmain h1{
-	margin-top:29px;
-	margin-bottom:15px;
-	margin-left:-16px;
-	letter-spacing: -0.03em;
-}
+
 	
 /*↑★main以外のヘッダー↑★*/
 
@@ -637,6 +628,7 @@ border: 1px solid #000;
 }
 
 }
+
 
 
 
