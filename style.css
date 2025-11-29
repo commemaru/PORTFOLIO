@@ -294,6 +294,10 @@ input[type=submit]{
 }
 
 
+.header-notmain h1{
+	display: none;
+}
+
 
 /*↑★bannarブロック↑★*/
 
@@ -347,7 +351,12 @@ input[type=submit]{
 
 }
 
+	
+.header-notmain h1{
+	display: block;
+}
 
+	
 	
 /*↑★main以外のヘッダー↑★*/
 
@@ -628,6 +637,7 @@ border: 1px solid #000;
 }
 
 }
+
 
 
 
