@@ -210,44 +210,6 @@ input[type=submit]{
 }
 
 
-/*↓★コメントカスタムCSSブロック↓★*/
-
-.commentcustom{
-
-	display: block;
-	width:115%;
-	margin: 12vw 0vw 0vw 0vw;
-
-}
-
-
-
-.commentcustom-main{
-
-	position: fixed;
-	background-color: rgba( 219, 42, 123, 0.5);
-	color :#ffffff;
-	width: 20%;
-	height: auto;
-	float: left;
-	padding-top: 200px;
-	padding-right: 50px;
-	padding-left: 50px;
-	padding-bottom: 100%;
-
-	margin-left:5%;
-	margin-right:5%;
-	margin-top:-200px;
-}
-
-
-.commentcustomimage-main {
-    display: none;
-}
-
-
-/*★↑コメントカスタムCSSブロック↑★*/
-
 
 /*↓★bannarブロック↓★*/
 
@@ -582,47 +544,6 @@ scroll-margin-top: 25vh;
 }    
 
 
-/*↓★コメントカスタムCSSブロック↓★*/
-
-
-
-.commentcustom{	
-
-display:none;
-
-}
-
-.commentcustomimage-main{
-
-display:block;
-width: 130%;
-margin-left: -32px;
-}
-
-
-
-.commentcustom-main{
-
-	width: 60%;
-	float: none;
-
-	position: relative; 
-	padding-top: 280px;
-	padding-right: 50px;
-	padding-left: 50px;
-	padding-bottom: 120px;
-
-	margin-left:5%;
-	margin-right:5%;
-	margin-top:-200px;
-	margin-bottom:-100px;
-
-
-}
-
-
-
-/*★↑コメントカスタムCSSブロック↑★*/
 	
 /*↓★bannarブロック↓★*/
 
@@ -692,6 +613,7 @@ display:none;
 }
 
 }
+
 
 
 
