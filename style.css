@@ -49,7 +49,7 @@ h1{
 	grid-auto-rows: auto;
 	gap:  1vw 5vw;
 	padding: 0;
-	margin: 0vw 0vw 0vw 0vw;
+	margin: 0vw 0vw 0vw 2vw;
 	list-style: none;
 }
 
@@ -627,6 +627,7 @@ border: 1px solid #000;
 }
 
 }
+
 
 
 
