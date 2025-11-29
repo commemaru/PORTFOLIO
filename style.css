@@ -585,8 +585,8 @@ display:none;
 	grid-template-columns: repeat(1, 1fr);
 	grid-auto-rows: auto;
 	gap: 1.5vw 1vw;
-	padding: 0;
-	margin: -20% 0% 0% 0%;
+	padding: 0px 0px 0px 0px;
+	margin: 20px 0% 0% 0%;
 	list-style: none;
 }
 
@@ -613,6 +613,7 @@ display:none;
 }
 
 }
+
 
 
 
