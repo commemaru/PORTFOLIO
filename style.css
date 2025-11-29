@@ -91,6 +91,7 @@ h2{
 	text-align: center;
 	margin-top:160px;
 	margin-bottom:0px;
+	border-bottom: 1px solid #ffffff;
 
 
 }
@@ -100,7 +101,6 @@ p{
 
 	padding-top:10px;
 	padding-bottom: 0px;
-	border-top: 1px solid #ffffff;
 	font-size: clamp(12px, 1.2vw, 16px);
 
 }
@@ -613,6 +613,7 @@ display:none;
 }
 
 }
+
 
 
 
