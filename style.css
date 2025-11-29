@@ -573,7 +573,7 @@ scroll-margin-top: 25vh;
 /*↑★bannarブロック↑★*/
 /*↓★コメントカスタムCSSブロック↓★*/
 
-.commentcss-main img {
+.commentcss-main {
 	display: block;
 }
 
@@ -606,6 +606,7 @@ display:none;
 }
 
 }
+
 
 
 
