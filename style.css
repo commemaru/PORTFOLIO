@@ -300,7 +300,33 @@ input[type=submit]{
 
 
 /*↑★bannarブロック↑★*/
+/*↓★コメントカスタムCSSブロック↓★*/
 
+.commentcss-main{
+    display: none;
+}
+
+.commentcss-images{
+
+	display: grid;
+	place-content: center;
+	grid-template-columns: repeat(2, 1fr);
+	grid-auto-rows: auto;
+	gap: 1vw 5vw;
+	padding: 10vw 0vw 0vw 16vw;
+	list-style: none;
+
+}
+
+.commentcss-images img {
+	display: block;
+	width: 125%;
+	height: auto;
+	object-fit: contain;
+}
+
+
+/*★↑コメントカスタムCSSブロック↑★*/
 
 
 
@@ -620,11 +646,40 @@ margin-left: -32px;
 	width: 100%;
 	height: auto;
 	object-fit: contain;
-border: 1px solid #000;
+	border: 1px solid #000;
 }
 
 /*↑★bannarブロック↑★*/
+/*↓★コメントカスタムCSSブロック↓★*/
 
+
+
+.commentcss-images{
+display:none;
+}
+
+.commentcss-main{
+	display: grid;
+	place-content: center;
+	grid-template-columns: repeat(1, 1fr);
+	grid-auto-rows: auto;
+	gap: 1.5vw 1vw;
+	padding: 0;
+	margin: -20% 0% 0% 0%;
+	list-style: none;
+}
+
+.commentcss-main img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+
+
+
+/*★↑コメントカスタムCSSブロック↑★*/
+	
 
 
 
@@ -637,6 +692,7 @@ border: 1px solid #000;
 }
 
 }
+
 
 
 
