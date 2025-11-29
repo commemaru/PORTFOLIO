@@ -556,7 +556,7 @@ scroll-margin-top: 25vh;
 	place-content: center;
 	grid-template-columns: repeat(2, 1fr);
 	grid-auto-rows: auto;
-	gap: 1.5vw 1vw;
+	gap: 1.5vw 1.5vw;
 	padding: 0;
 	margin: 15px 0% 0% 0%;
 	list-style: none;
@@ -607,6 +607,7 @@ display:none;
 }
 
 }
+
 
 
 
