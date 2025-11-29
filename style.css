@@ -81,6 +81,7 @@ h1{
 	margin-left:5%;
 	margin-right:5%;
 	margin-top:-200px;
+	min-height: 100vh;
 
 }
 
@@ -626,6 +627,7 @@ border: 1px solid #000;
 }
 
 }
+
 
 
 
