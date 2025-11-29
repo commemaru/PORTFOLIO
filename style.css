@@ -558,7 +558,7 @@ scroll-margin-top: 25vh;
 	grid-auto-rows: auto;
 	gap: 1.5vw 1vw;
 	padding: 0;
-	margin: 0% 0% 0% 0%;
+	margin: 15px 0% 0% 0%;
 	list-style: none;
 }
 
@@ -607,6 +607,7 @@ display:none;
 }
 
 }
+
 
 
 
