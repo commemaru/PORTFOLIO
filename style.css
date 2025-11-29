@@ -293,6 +293,11 @@ input[type=submit]{
 	text-align: center;
 }
 
+.header-notmain h1{
+display: none;
+}
+
+
 
 /*↑★bannarブロック↑★*/
 
@@ -625,6 +630,7 @@ border: 1px solid #000;
 }
 
 }
+
 
 
 
