@@ -60,7 +60,7 @@ h1{
 
 .images img {
 	display: block;
-	width: 120%;
+	width: 125%;
 	height: auto;
 	object-fit: contain;
 }
@@ -627,6 +627,7 @@ border: 1px solid #000;
 }
 
 }
+
 
 
 
