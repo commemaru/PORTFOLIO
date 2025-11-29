@@ -252,32 +252,30 @@ input[type=submit]{
 /*↓★bannarブロック↓★*/
 
 .header-logo-notomain{
-
     display: none;
-
 }
 
 .bannerimages-main{
-	display: none;
+    display: none;
 }
 
 
 
 .banner-images{
+
 	display: grid;
 	place-content: center;
 	grid-template-columns: repeat(2, 1fr);
 	grid-auto-rows: auto;
-	gap: 1vw 1vw;
+	gap: 1vw 5vw;
 	padding: 0;
-	margin: 8% 0% 0% 25%;
+	margin: 8vw 0vw 0vw 16vw;
 	list-style: none;
-
 }
 
 .banner-images img {
 	display: block;
-	width: 100%;
+	width: 120%;
 	height: auto;
 	object-fit: contain;
 	border: 1px solid #000;
@@ -287,14 +285,14 @@ input[type=submit]{
 .header-notmain{
 	position: fixed;
 	background-color: rgba( 219, 42, 123, 0);
-	width: 40%;
+	width: 55%;
 	height: auto;
 	top: 0px;
 	right: 24%;  
 	font-size:4vw;
 	text-align: center;
-
 }
+
 
 /*↑★bannarブロック↑★*/
 
@@ -627,6 +625,7 @@ border: 1px solid #000;
 }
 
 }
+
 
 
 
