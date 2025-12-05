@@ -310,12 +310,6 @@ input[type=submit]{
 	border: 1px solid #000;
 }
 
-.map-images iframe {
-	display: block;
-	width: 125%;
-	aspect-ratio: 4 / 3;
-}
-
 
 /*★↑MAPブロック↑★*/
 
@@ -634,6 +628,7 @@ display:none;
 }
 
 }
+
 
 
 
