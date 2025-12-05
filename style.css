@@ -290,24 +290,17 @@ input[type=submit]{
 /*★↑コメントカスタムCSSブロック↑★*/
 /*↓★MAPブロック↓★*/
 
-.map-images{
-
-	display: grid;
-	place-content: center;
-	grid-template-columns: repeat(2, 1fr);
-	grid-auto-rows: auto;
-	gap: 1vw 5vw;
-	padding: 0;
-	margin: 8vw 0vw 0vw 16vw;
-	list-style: none;
+.banner-images iframe {
+    display: block;
+    width: 125%;
+    aspect-ratio: 4 / 3;
 }
 
-.map-images img {
-	display: block;
-	width: 125%;
-	height: auto;
-	object-fit: contain;
-	border: 1px solid #000;
+
+.banner-images img,
+.banner-images iframe {
+    width: 50%;
+    height: auto;
 }
 
 
@@ -628,6 +621,7 @@ display:none;
 }
 
 }
+
 
 
 
