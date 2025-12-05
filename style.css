@@ -290,6 +290,12 @@ input[type=submit]{
 /*★↑コメントカスタムCSSブロック↑★*/
 /*↓★MAPブロック↓★*/
 
+.map-main{
+    display: none;
+}
+
+
+
 .map-images{
 
 	display: grid;
@@ -302,17 +308,12 @@ input[type=submit]{
 	list-style: none;
 }
 
-
-.banner-images iframe {
-	aspect-ratio: 4 / 3;
-}
-
-
-.banner-images img,
-.banner-images iframe {
+.map-images img {
 	display: block;
-    width: 50%;
-    height: auto;
+	width: 125%;
+	height: auto;
+	object-fit: contain;
+	border: 1px solid #000;
 }
 
 
@@ -633,6 +634,7 @@ display:none;
 }
 
 }
+
 
 
 
