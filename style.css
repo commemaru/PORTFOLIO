@@ -315,6 +315,15 @@ input[type=submit]{
 	object-fit: contain;
 }
 
+.map-images .map-setsumei{
+	grid-column: 1 / -1;
+	font-size: 1rem;
+	margin: 10px 0 20px;
+	line-height: 1.6;
+}
+	
+}
+
 
 /*★↑MAPブロック↑★*/
 
@@ -633,6 +642,7 @@ display:none;
 }
 
 }
+
 
 
 
