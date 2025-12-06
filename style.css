@@ -657,11 +657,11 @@ display: none;
 
 .mapimages-main .map-column-main{
 	grid-column: 1 / -1;
-	font-size:  0.5vw;
+	font-size:  1vw;
 	margin: -10px 0px 20px 0px;
 	line-height: 1.6;
 	text-align: left;
-	color: #333333;
+	color: #fff;
 }
 
 .hosoku{
@@ -685,6 +685,7 @@ font-size: 2vw;
 }
 
 }
+
 
 
 
