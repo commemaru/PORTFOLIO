@@ -292,7 +292,7 @@ input[type=submit]{
 /*★↑コメントカスタムCSSブロック↑★*/
 /*↓★MAPブロック↓★*/
 
-.map-main{
+.mapimages-main{
     display: none;
 }
 
@@ -650,6 +650,7 @@ display:none;
 }
 
 }
+
 
 
 
