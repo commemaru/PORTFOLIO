@@ -253,7 +253,8 @@ input[type=submit]{
 	right: 24%;  
 	font-size:4vw;
 	text-align: center;
-	padding: 4vh, 0vh, 4vh, 0vh :
+	padding: 4vh, 0vh, 4vh, 0vh;
+	margin-top:4vh;
 }
 
 
@@ -647,6 +648,7 @@ display:none;
 }
 
 }
+
 
 
 
