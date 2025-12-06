@@ -648,11 +648,6 @@ display:none;
 	margin-top:	15px;
 }
 
-
-.mapimages-images{
-display:none;
-}
-
 .mapimages-main img {
 	display: block;
 	width: 100%;
@@ -660,9 +655,9 @@ display:none;
 	margin-top:	5px;
 }
 
-.map-images .map-column-main{
+.map-images-main .map-column-main{
 	grid-column: 1 / -1;
-	font-size:  0.8vw;
+	font-size:  0.5vw;
 	margin: -10px 0px 20px 0px;
 	line-height: 1.6;
 	text-align: left;
@@ -673,8 +668,6 @@ display:none;
 font-size: 2vw;
 	
 }
-
-
 
 	
 
@@ -692,6 +685,7 @@ font-size: 2vw;
 }
 
 }
+
 
 
 
