@@ -321,6 +321,10 @@ input[type=submit]{
 	margin: -10px 0px 20px 0px;
 	line-height: 1.6;
 	text-align: left;
+}
+
+.hosoku{
+font-size: clamp(8px, 0.8vw, 12px);
 	
 }
 
@@ -642,6 +646,7 @@ display:none;
 }
 
 }
+
 
 
 
