@@ -328,7 +328,7 @@ input[type=submit]{
 }
 
 .hosoku{
-font-size: 0.5vw;
+font-size: 0.7vw;
 	
 }
 
@@ -639,7 +639,7 @@ display:none;
 /*★↑コメントカスタムCSSブロック↑★*/
 /*↓★MAPブロック↓★*/
 
-.map-images{
+.map-images .map-column{
 display:none;
 }
 
@@ -660,7 +660,7 @@ display:none;
 	margin-top:	5px;
 }
 
-.map-images .map-column{
+.map-images .map-column-main{
 	grid-column: 1 / -1;
 	font-size:  0.8vw;
 	margin: -10px 0px 20px 0px;
@@ -670,7 +670,7 @@ display:none;
 }
 
 .hosoku{
-font-size: 1vw;
+font-size: 2vw;
 	
 }
 
@@ -692,6 +692,7 @@ font-size: 1vw;
 }
 
 }
+
 
 
 
