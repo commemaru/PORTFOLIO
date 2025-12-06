@@ -312,7 +312,7 @@ input[type=submit]{
 
 .map-images img {
 	display: block;
-	width: 125%;
+	width: 100%;
 	height: auto;
 	object-fit: contain;
 	margin: 0px 0px 0px 0px;
@@ -649,6 +649,7 @@ display:none;
 }
 
 }
+
 
 
 
