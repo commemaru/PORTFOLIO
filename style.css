@@ -306,7 +306,7 @@ input[type=submit]{
 	grid-auto-rows: auto;
 	gap: 1vw 5vw;
 	padding: 0;
-	margin: 2vw, 0vw, 2vw, 16vw;
+	margin: 8vw 0vw 0vw 16vw;
 	list-style: none;
 }
 
@@ -648,6 +648,7 @@ display:none;
 }
 
 }
+
 
 
 
