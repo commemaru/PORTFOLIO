@@ -639,8 +639,8 @@ display:none;
 /*★↑コメントカスタムCSSブロック↑★*/
 /*↓★MAPブロック↓★*/
 
-.map-images .map-column{
-display:none;
+.map-images{
+display: none;
 }
 
 .mapimages-main {
@@ -685,6 +685,7 @@ font-size: 2vw;
 }
 
 }
+
 
 
 
