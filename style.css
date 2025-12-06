@@ -321,8 +321,8 @@ input[type=submit]{
 .map-images .map-column{
 	grid-column: 1 / -1;
 	font-size:  0.8vw;
-	margin: -10px 0px 20px 0px;
-	line-height: 1.6;
+	margin: -5px 0px 20px 0px;
+	line-height: 1.2;
 	text-align: left;
 	color: #333333;
 }
@@ -648,7 +648,6 @@ display:none;
 	margin-top:	15px;
 }
 
-	
 
 .mapimages-images{
 display:none;
@@ -661,6 +660,23 @@ display:none;
 	margin-top:	5px;
 }
 
+.map-images .map-column{
+	grid-column: 1 / -1;
+	font-size:  0.8vw;
+	margin: -10px 0px 20px 0px;
+	line-height: 1.6;
+	text-align: left;
+	color: #333333;
+}
+
+.hosoku{
+font-size: 1vw;
+	
+}
+
+
+
+	
 
 
 /*★↑MAPブロック↑★*/
@@ -676,6 +692,7 @@ display:none;
 }
 
 }
+
 
 
 
