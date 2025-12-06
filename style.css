@@ -637,7 +637,33 @@ display:none;
 
 
 /*★↑コメントカスタムCSSブロック↑★*/
+/*↓★MAPブロック↓★*/
+
+.map-images{
+display:none;
+}
+
+.mapimages-main {
+	display: block;
+	margin-top:	15px;
+}
+
 	
+
+.mapimages-images{
+display:none;
+}
+
+.mapimages-main img {
+	display: block;
+	width: 100%;
+	height: auto;
+	margin-top:	5px;
+}
+
+
+
+/*★↑MAPブロック↑★*/
 
 
 
@@ -650,6 +676,7 @@ display:none;
 }
 
 }
+
 
 
 
