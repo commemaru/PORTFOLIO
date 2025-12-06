@@ -655,7 +655,7 @@ display:none;
 	margin-top:	5px;
 }
 
-.map-images-main .map-column-main{
+.mapimages-main .map-column-main{
 	grid-column: 1 / -1;
 	font-size:  0.5vw;
 	margin: -10px 0px 20px 0px;
@@ -685,6 +685,7 @@ font-size: 2vw;
 }
 
 }
+
 
 
 
