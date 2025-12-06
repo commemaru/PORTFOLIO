@@ -657,7 +657,7 @@ display: none;
 
 .mapimages-main .map-column-main{
 	grid-column: 1 / -1;
-	font-size:  1vw;
+	font-size:  2vw;
 	margin: -10px 0px 20px 0px;
 	line-height: 1.6;
 	text-align: left;
@@ -685,6 +685,7 @@ font-size: 2vw;
 }
 
 }
+
 
 
 
