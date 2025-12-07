@@ -341,10 +341,15 @@ font-size: 0.7vw;
 }
 
 .webseisaku-images{
-	padding: 10vw 0vw 0vw 16vw;
+	display: grid;
+	place-content: center;
+	grid-template-columns: repeat(2, 1fr);
+	grid-auto-rows: auto;
+	gap: 1vw 5vw;
+	padding: 0;
+	margin: 8vw 0vw 0vw 16vw;
 	list-style: none;
 }
-
 
 /*★↑WEB制作ブロック↑★*/
 
@@ -697,6 +702,7 @@ font-size: 2vw;
 }
 
 }
+
 
 
 
