@@ -276,7 +276,7 @@ input[type=submit]{
 	place-content: center;
 	grid-template-columns: repeat(2, 1fr);
 	grid-auto-rows: auto;
-	gap: 1vw, 8vw;
+	gap: 3vw, 10vw;
 	padding: 10vw 0vw 0vw 16vw;
 	list-style: none;
 
@@ -685,6 +685,7 @@ font-size: 2vw;
 }
 
 }
+
 
 
 
