@@ -334,7 +334,19 @@ font-size: 0.7vw;
 
 
 /*★↑MAPブロック↑★*/
+/*↓★WEB制作ブロック↓★*/
 
+.webseisaku-main{
+    display: none;
+}
+
+.webseisaku-images{
+	padding: 10vw 0vw 0vw 16vw;
+	list-style: none;
+}
+
+
+/*★↑WEB制作ブロック↑★*/
 
 
 
@@ -685,6 +697,7 @@ font-size: 2vw;
 }
 
 }
+
 
 
 
