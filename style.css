@@ -347,7 +347,7 @@ font-size: 0.7vw;
 	grid-auto-rows: auto;
 	gap: 1vw 2vw;
 	padding: 0;
-	margin: 8vw 0vw 0vw 16vw;
+	margin: 8vw 0vw 0vw 20vw;
 	list-style: none;
 }
 
@@ -717,6 +717,7 @@ display: none;
 }
 
 }
+
 
 
 
