@@ -398,7 +398,7 @@ font-size: 0.7vw;
 .header-notmain{
 	position: fixed;
 	width: 100%;
-	height:110px;
+	height:100px;
 	float: none;
 	right:20px; 
 	background-color: #fff;
@@ -724,6 +724,7 @@ display: none;
 }
 
 }
+
 
 
 
