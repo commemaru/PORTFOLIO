@@ -706,6 +706,13 @@ font-size: 2vw;
 display: none;
 }
 
+.webseisaku-main img{
+	display: block;
+	width: 100%;
+	height: auto;
+	margin-top:	5px;
+}
+	
 	
 /*↑★WEB制作ブロック↑★*/
 
@@ -717,6 +724,7 @@ display: none;
 }
 
 }
+
 
 
 
