@@ -420,7 +420,7 @@ font-size: 0.7vw;
 .main-goaisatsu{
 	font-size: clamp(15px, 1.5vw, 24px);
 	text-align: center;
-	margin-top:170px;
+	margin-top:150px;
 	margin-bottom:0px;
 	border-bottom: 1px solid #ffffff;	
 }
@@ -735,6 +735,7 @@ display: block;
 }
 
 }
+
 
 
 
