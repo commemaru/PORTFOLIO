@@ -274,20 +274,21 @@ input[type=submit]{
 
 	display: grid;
 	place-content: center;
-	grid-template-columns: repeat(2, 1fr);
+	grid-template-columns: repeat(1, 1fr);
 	grid-auto-rows: auto;
-	gap: 5vw, 15vw;
-	padding: 10vw 0vw 0vw 16vw;
+	gap: 1vw 2vw;
+	padding: 0;
+	margin: 8vw 0vw 0vw 25vw;
 	list-style: none;
-
 }
 
 .commentcss-images img {
 	display: block;
-	width: 100%;
+	width: 90%;
 	height: auto;
 	object-fit: contain;
 }
+
 
 /*★↑コメントカスタムCSSブロック↑★*/
 /*↓★MAPブロック↓★*/
@@ -735,6 +736,7 @@ display: block;
 }
 
 }
+
 
 
 
