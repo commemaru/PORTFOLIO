@@ -706,6 +706,10 @@ font-size: 2vw;
 display: none;
 }
 
+.webseisaku-main {
+display: block;
+  }
+
 .webseisaku-main img{
 	display: block;
 	width: 100%;
@@ -724,6 +728,7 @@ display: none;
 }
 
 }
+
 
 
 
